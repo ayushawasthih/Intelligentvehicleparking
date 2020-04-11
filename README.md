@@ -1,4 +1,4 @@
-# Intelligentvehicleparking
+# Intelligent Vehicle Parking
 Design a Intelligent parking lot using Python 
 
 ## Description
